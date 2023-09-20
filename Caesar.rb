@@ -1,3 +1,1 @@
-puts "Enter a string"
-userString = gets
-userKey = gets
+puts "hello how are u"
